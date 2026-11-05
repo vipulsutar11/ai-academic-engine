@@ -1,0 +1,20 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Large datasets & downloaded files (>100MB rejected by GitHub)
+data/downloads/
+data/extracted/
+data/vector_store/
+*.zip
+*.pdf
+
+# Virtual env
+venv/
+.venv/
+

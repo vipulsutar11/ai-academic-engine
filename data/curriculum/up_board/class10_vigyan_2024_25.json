@@ -1,0 +1,22 @@
+{
+  "board": "UP_BOARD",
+  "academic_year": "2024-25",
+  "class_name": "Class 10",
+  "subject": "Science",
+  "chapters": [
+    {
+      "id": "CH_UP_10_01",
+      "name": "विद्युत (Electricity)",
+      "unit": "इकाई 4",
+      "topics": [
+        {
+          "id": "CH_UP_10_01_TOPIC_01",
+          "name": "ओम का नियम तथा प्रतिरोध (Ohm's Law & Resistance)",
+          "weightage": 1.0,
+          "keywords": ["विद्युत धारा", "प्रतिरोध", "ओम का नियम", "विभवांतर"],
+          "learning_outcomes": ["ओम के नियम का सूत्र V = IR सिद्ध करना"]
+        }
+      ]
+    }
+  ]
+}

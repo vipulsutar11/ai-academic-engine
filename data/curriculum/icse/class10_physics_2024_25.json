@@ -1,0 +1,22 @@
+{
+  "board": "ICSE",
+  "academic_year": "2024-25",
+  "class_name": "Class 10",
+  "subject": "Physics",
+  "chapters": [
+    {
+      "id": "CH_ICSE_10_01",
+      "name": "Force, Work, Power and Energy",
+      "unit": "Unit 1",
+      "topics": [
+        {
+          "id": "CH_ICSE_10_01_TOPIC_01",
+          "name": "Turning Effect of Forces and Moment of Force",
+          "weightage": 1.0,
+          "keywords": ["moment of force", "torque", "equilibrium", "center of gravity"],
+          "learning_outcomes": ["State principle of moments", "Calculate clockwise and anticlockwise moments"]
+        }
+      ]
+    }
+  ]
+}

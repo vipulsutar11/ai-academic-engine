@@ -1,0 +1,50 @@
+{
+  "board": "CBSE",
+  "academic_year": "2024-25",
+  "class_name": "Class 10",
+  "subject": "Science",
+  "chapters": [
+    {
+      "id": "CH_CBSE_10_01",
+      "name": "Chemical Reactions and Equations",
+      "unit": "Unit 1: Chemical Substances - Nature and Behaviour",
+      "topics": [
+        {
+          "id": "CH_CBSE_10_01_TOPIC_01",
+          "name": "Chemical Equations and Balancing",
+          "weightage": 1.0,
+          "keywords": ["chemical equation", "balancing", "reactants", "products"],
+          "learning_outcomes": ["Balance chemical equations using hit and trial method", "Identify combination and decomposition reactions"]
+        },
+        {
+          "id": "CH_CBSE_10_01_TOPIC_02",
+          "name": "Types of Chemical Reactions & Oxidation Reduction",
+          "weightage": 1.0,
+          "keywords": ["displacement", "double displacement", "oxidation", "reduction", "redox"],
+          "learning_outcomes": ["Classify reactions into oxidation and reduction", "Explain corrosion and rancidity"]
+        }
+      ]
+    },
+    {
+      "id": "CH_CBSE_10_12",
+      "name": "Electricity",
+      "unit": "Unit 4: Effects of Current",
+      "topics": [
+        {
+          "id": "CH_CBSE_10_12_TOPIC_01",
+          "name": "Electric Current, Potential Difference and Ohm's Law",
+          "weightage": 1.5,
+          "keywords": ["electric current", "potential difference", "volt", "ampere", "ohm's law"],
+          "learning_outcomes": ["State Ohm's law and draw V-I graph", "Calculate equivalent resistance in series and parallel"]
+        },
+        {
+          "id": "CH_CBSE_10_12_TOPIC_02",
+          "name": "Joule's Heating Effect of Electric Current & Electrical Power",
+          "weightage": 1.5,
+          "keywords": ["joule's heating effect", "electric power", "watt", "kilowatt-hour"],
+          "learning_outcomes": ["Derive H = I^2 R t formula", "Calculate electrical energy consumption in kWh"]
+        }
+      ]
+    }
+  ]
+}

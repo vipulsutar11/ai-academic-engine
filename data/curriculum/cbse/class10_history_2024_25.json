@@ -1,0 +1,162 @@
+{
+  "board": "CBSE",
+  "academic_year": "2024-25",
+  "class_name": "Class 10",
+  "subject": "History",
+  "chapters": [
+    {
+      "id": "CH_HIST_10_01",
+      "name": "The Rise of Nationalism in Europe",
+      "unit": "Unit 1: India and the Contemporary World - II",
+      "topics": [
+        {
+          "id": "CH_HIST_10_01_TOPIC_01",
+          "name": "The French Revolution and the Idea of the Nation",
+          "weightage": 1.0,
+          "keywords": ["french revolution", "la patrie", "le citoyen", "napoleonic code", "civil code 1804", "nationalism"],
+          "learning_outcomes": ["Understand the impact of French Revolution on creating a collective identity", "Analyze the Napoleonic Code of 1804"]
+        },
+        {
+          "id": "CH_HIST_10_01_TOPIC_02",
+          "name": "The Making of Nationalism in Europe and Liberal Nationalism",
+          "weightage": 1.0,
+          "keywords": ["aristocracy", "middle class", "liberal nationalism", "zollverein", "conservatism", "treaty of vienna 1815", "mazzini"],
+          "learning_outcomes": ["Explain the meaning of liberal nationalism in political and economic spheres", "Evaluate the Treaty of Vienna 1815"]
+        },
+        {
+          "id": "CH_HIST_10_01_TOPIC_03",
+          "name": "The Age of Revolutions (1830-1848) and Romanticism",
+          "weightage": 1.0,
+          "keywords": ["greek war of independence", "romanticism", "national feeling", "hunger hardship revolt", "frankfurt parliament"],
+          "learning_outcomes": ["Examine the role of romanticism and culture in developing national sentiment", "Discuss the 1848 Revolution of the Liberals"]
+        },
+        {
+          "id": "CH_HIST_10_01_TOPIC_04",
+          "name": "The Unification of Germany, Italy and Britain",
+          "weightage": 1.2,
+          "keywords": ["otto von bismarck", "german unification", "cavour", "garibaldi", "victor emmanuel ii", "act of union 1707", "balkan nationalism"],
+          "learning_outcomes": ["Trace the process of German and Italian unification", "Analyze how nationalism aligned with imperialism led Europe to disaster"]
+        }
+      ]
+    },
+    {
+      "id": "CH_HIST_10_02",
+      "name": "Nationalism in India",
+      "unit": "Unit 1: India and the Contemporary World - II",
+      "topics": [
+        {
+          "id": "CH_HIST_10_02_TOPIC_01",
+          "name": "First World War, Khilafat and Idea of Satyagraha",
+          "weightage": 1.5,
+          "keywords": ["first world war", "satyagraha", "champaran", "kheda", "ahmedabad mill strike", "rowlatt act", "jallianwala bagh", "khilafat"],
+          "learning_outcomes": ["Explain Gandhi's concept of Satyagraha with initial experiments", "Analyze the causes and impact of Rowlatt Satyagraha and Jallianwala Bagh massacre"]
+        },
+        {
+          "id": "CH_HIST_10_02_TOPIC_02",
+          "name": "Non-Cooperation Movement and Differing Strands",
+          "weightage": 1.5,
+          "keywords": ["non-cooperation movement", "boycott", "swaraj", "peasants in awadh", "baba ramachandra", "alluri sitarama raju", "tribal revolt", "assam plantations"],
+          "learning_outcomes": ["Evaluate the participation of towns, peasants, and tribal communities in Non-Cooperation", "Explain reasons for calling off the movement after Chauri Chaura"]
+        },
+        {
+          "id": "CH_HIST_10_02_TOPIC_03",
+          "name": "Towards Civil Disobedience and The Salt March",
+          "weightage": 1.5,
+          "keywords": ["swaraj party", "simon commission", "poorna swaraj", "dandi march", "salt march", "civil disobedience movement", "gandhi-irwin pact", "round table conferences"],
+          "learning_outcomes": ["Trace the events leading from Simon Commission to Salt Satyagraha", "Differentiate between Non-Cooperation and Civil Disobedience movements"]
+        },
+        {
+          "id": "CH_HIST_10_02_TOPIC_04",
+          "name": "Limits of Civil Disobedience and Sense of Collective Belonging",
+          "weightage": 1.0,
+          "keywords": ["dalit participation", "dr br ambedkar", "poona pact 1932", "muslim political organizations", "bharat mata", "vande mataram", "folklore", "national flag"],
+          "learning_outcomes": ["Analyze the participation of Dalits and Muslims in the Civil Disobedience Movement", "Explain cultural processes that nurtured a sense of collective belonging in India"]
+        }
+      ]
+    },
+    {
+      "id": "CH_HIST_10_03",
+      "name": "The Making of a Global World",
+      "unit": "Unit 1: India and the Contemporary World - II",
+      "topics": [
+        {
+          "id": "CH_HIST_10_03_TOPIC_01",
+          "name": "The Pre-modern World, Silk Routes and Conquest",
+          "weightage": 1.0,
+          "keywords": ["silk routes", "food travels", "spaghetti and potato", "conquest disease and trade", "smallpox in americas", "pre-modern trade"],
+          "learning_outcomes": ["Trace pre-modern global exchange through trade, disease, and migration", "Describe the role of silk routes connecting Asia with Europe and Africa"]
+        },
+        {
+          "id": "CH_HIST_10_03_TOPIC_02",
+          "name": "The Nineteenth Century Economy and Indentured Labour",
+          "weightage": 1.0,
+          "keywords": ["corn laws", "global agricultural economy", "technology in trade", "meat trade", "indentured labour migration", "rinderpest cattle plague", "caribbean fiji"],
+          "learning_outcomes": ["Explain the impact of abolition of Corn Laws and technology on 19th century trade", "Discuss indentured labor migration from India and life of indentured workers"]
+        },
+        {
+          "id": "CH_HIST_10_03_TOPIC_03",
+          "name": "The Inter-War Economy and The Great Depression",
+          "weightage": 1.0,
+          "keywords": ["war-time transformations", "post-war recovery", "mass production", "henry ford", "great depression 1929", "agricultural overproduction", "impact on india"],
+          "learning_outcomes": ["Analyze causes and global consequences of the Great Depression of 1929", "Evaluate the impact of the Great Depression on Indian peasants and trade"]
+        }
+      ]
+    },
+    {
+      "id": "CH_HIST_10_04",
+      "name": "The Age of Industrialisation",
+      "unit": "Unit 1: India and the Contemporary World - II",
+      "topics": [
+        {
+          "id": "CH_HIST_10_04_TOPIC_01",
+          "name": "Before the Industrial Revolution and Hand Labour vs Steam Power",
+          "weightage": 1.0,
+          "keywords": ["proto-industrialisation", "hand labour", "steam power", "spinning jenny", "victorian britain", "workers lives in britain"],
+          "learning_outcomes": ["Explain proto-industrialisation and merchant-craftsperson networks", "Compare hand labor and steam power in 19th-century Britain"]
+        },
+        {
+          "id": "CH_HIST_10_04_TOPIC_02",
+          "name": "Industrialisation in the Colonies and Indian Weavers",
+          "weightage": 1.0,
+          "keywords": ["east india company", "gomasthas", "indian textile decline", "manchester in india", "import duties", "cotton weavers distress"],
+          "learning_outcomes": ["Describe the plight of Indian weavers under the Gomastha system", "Analyze the impact of Manchester textile imports on Indian artisans"]
+        },
+        {
+          "id": "CH_HIST_10_04_TOPIC_03",
+          "name": "Factories in India and The Market for Goods",
+          "weightage": 1.0,
+          "keywords": ["early entrepreneurs", "dwarkanath tagore", "dinshaw petit", "jamsetji tata", "swadeshi movement", "first world war boom", "advertisements and calendars"],
+          "learning_outcomes": ["Trace the rise of cotton and jute mills in India and early industrialists", "Explain how advertisements, labels, and calendars created new consumer markets"]
+        }
+      ]
+    },
+    {
+      "id": "CH_HIST_10_05",
+      "name": "Print Culture and the Modern World",
+      "unit": "Unit 1: India and the Contemporary World - II",
+      "topics": [
+        {
+          "id": "CH_HIST_10_05_TOPIC_01",
+          "name": "First Printed Books and Gutenberg Printing Press",
+          "weightage": 1.0,
+          "keywords": ["woodblock printing", "china", "japan", "korea", "diamond sutra", "marco polo", "johann gutenberg", "gutenberg bible", "moveable type"],
+          "learning_outcomes": ["Trace the development of printing from East Asia to Europe", "Explain Gutenberg's innovation in printing press technology"]
+        },
+        {
+          "id": "CH_HIST_10_05_TOPIC_02",
+          "name": "The Print Revolution, Protestant Reformation and Reading Mania",
+          "weightage": 1.0,
+          "keywords": ["print revolution", "protestant reformation", "martin luther", "ninety five theses", "menocchio", "inquisition", "index of prohibited books", "penny chapbooks", "reading mania"],
+          "learning_outcomes": ["Evaluate Martin Luther's use of print to challenge the Roman Catholic Church", "Explain the spread of popular reading culture in 18th-century Europe"]
+        },
+        {
+          "id": "CH_HIST_10_05_TOPIC_03",
+          "name": "India and the World of Print: Reform, Women and Censorship",
+          "weightage": 1.2,
+          "keywords": ["manuscripts", "portuguese in goa", "james augustus hickey", "bengal gazette", "raja ram mohan roy", "sambad kaumudi", "samachar chandrika", "deoband seminary", "rashsundari debi", "amar jiban", "vernacular press act 1878", "bal gangadhar tilak"],
+          "learning_outcomes": ["Analyze how print culture stimulated religious debates and social reform in India", "Discuss women's writing and print censorship under the Vernacular Press Act 1878"]
+        }
+      ]
+    }
+  ]
+}
